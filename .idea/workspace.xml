@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74566921-a03d-44bc-911e-3d61466e54a9" name="Changes" comment="Phase2">
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/main/java/fr/exia/DAOHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/main/java/fr/exia/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/main/java/fr/exia/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/main/java/fr/exia/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IView.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.Contract/src/main/java/fr/exia/IView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworldmvc.main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworldmvc.model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.model/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworldmvc.view/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldmvc.view/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699207653724</updated>
-      <workItem from="1699207654798" duration="6978000" />
+      <workItem from="1699207654798" duration="7542000" />
     </task>
     <task id="LOCAL-00001" summary="Phase2">
       <created>1699214325558</created>
@@ -84,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699214325558</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Phase2">
+      <created>1699220345356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699220345356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
